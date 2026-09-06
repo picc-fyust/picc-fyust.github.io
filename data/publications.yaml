@@ -1,0 +1,421 @@
+# 论文。作者名后加 * 表示通讯作者。id 供 research.yaml 引用；year 决定排序；
+# type 为 conference 或 journal；rank 可空；direction 指向 research.yaml 的方向 id。
+
+# ========== 智能机器人进化设计与应用（师少龙） ==========
+- id: tec2026
+  year: 2026
+  authors: Weiqi Liu, Shaolong Shi*, Jiawei Zou, Qiujun Huang, Jinting Wang*
+  title: "Fitness-Dependent Hierarchical Mutation for Nanorobot Morphology-Control Co-Evolution in Biological Gradient Field"
+  venue: IEEE TEVC 2026
+  venue_full: IEEE Transactions on Evolutionary Computation
+  type: journal
+  rank: JCR Q1
+  direction: evo-robot
+  links: []
+- id: nano2026a
+  year: 2026
+  authors: Weiqi Liu, Shaolong Shi*
+  title: "LLM-Guided Co-Evolution of Nanorobot Morphology and Control for Tumor Targeting"
+  venue: IEEE NANO 2026
+  venue_full: 26th IEEE International Conference on Nanotechnology
+  type: conference
+  rank: ""
+  direction: evo-robot
+  links: []
+- id: nano2026b
+  year: 2026
+  authors: Jiawei Zou, Shaolong Shi*
+  title: "Phase-Regulated Swarm Control for Nanorobot Collective Transport in Tumor Microenvironments"
+  venue: IEEE NANO 2026
+  venue_full: 26th IEEE International Conference on Nanotechnology
+  type: conference
+  rank: ""
+  direction: evo-robot
+  links: []
+- id: nsens2026a
+  year: 2026
+  authors: Jiawei Zou, Shaolong Shi*
+  title: "Rule-Driven Self-Organized Swarm Delivery to Evolutionary Nanorobots"
+  venue: IEEE NSENS 2026
+  venue_full: 5th IEEE International Conference on Micro/Nano Sensors for AI, Healthcare, and Robotics
+  type: conference
+  rank: ""
+  direction: evo-robot
+  links: []
+- id: nsens2026b
+  year: 2026
+  authors: Weiqi Liu, Shaolong Shi*
+  title: "Evolving Nanorobots in Nonstationary Biological Landscapes"
+  venue: IEEE NSENS 2026
+  venue_full: 5th IEEE International Conference on Micro/Nano Sensors for AI, Healthcare, and Robotics
+  type: conference
+  rank: ""
+  direction: evo-robot
+  links: []
+- id: tec2025
+  year: 2025
+  authors: Shaolong Shi, Zeyuan Xu, Jiawei Zou, Weiqi Liu, Qiujun Huang
+  title: "Nanorobots-Assisted In Vivo Computational Methodology for Tumor Lesion Exploitation and Lesion Boundary Exploration"
+  venue: IEEE TEVC 2025
+  venue_full: IEEE Transactions on Evolutionary Computation
+  type: journal
+  rank: JCR Q1
+  direction: evo-robot
+  links: []
+- id: tetci2025
+  year: 2025
+  authors: Shaolong Shi, Zhaoyang Jiang, Qiang Liu, Qingfu Zhang, Yifan Chen
+  title: "In Vivo Computational Strategy for Tumor Targeting in Co-Associated Biological Landscapes"
+  venue: IEEE TETCI 2025
+  venue_full: IEEE Transactions on Emerging Topics in Computational Intelligence
+  type: journal
+  rank: JCR Q1
+  direction: evo-robot
+  links: []
+- id: mind2025a
+  year: 2025
+  authors: Weiqi Liu, Jiawei Zou, Shaolong Shi*
+  title: "Evolutionary Nanorobotic Design Based on Bioinformation Feedback"
+  venue: MIND 2025
+  venue_full: 2025 International Conference on Machine Intelligence and Nature-Inspired Computing
+  type: conference
+  rank: ""
+  direction: evo-robot
+  links: []
+- id: mind2025b
+  year: 2025
+  authors: Jiawei Zou, Weiqi Liu, Shaolong Shi*
+  title: "An Evolutionary Nanorobotic Cooperative Grasping and Transport Method Based on Information-Sharing Structures"
+  venue: MIND 2025
+  venue_full: 2025 International Conference on Machine Intelligence and Nature-Inspired Computing
+  type: conference
+  rank: ""
+  direction: evo-robot
+  links: []
+- id: itsc2025
+  year: 2025
+  authors: Zeyuan Xu, Shaolong Shi*, Zixuan Li, Duo Li, Sheng Wang, Antonella Ferrara
+  title: "Robust Distributed Model Predictive Control of Heterogeneous Vehicle Platoons with Unidirectional Topologies Under External Disturbances"
+  venue: IEEE ITSC 2025
+  venue_full: 28th IEEE International Conference on Intelligent Transportation Systems
+  type: conference
+  rank: ""
+  direction: evo-robot
+  links: []
+- id: tmbmc2024
+  year: 2024
+  authors: Yue Sun, Shanchao Wen, Shaolong Shi, Yifan Chen
+  title: "Individual Adaptive Regulation Strategy Inspired by Artificial Fish Swarm Algorithm for Tumor Targeting"
+  venue: IEEE TMBMC 2024
+  venue_full: IEEE Transactions on Molecular, Biological, and Multi-Scale Communications
+  type: journal
+  rank: ""
+  direction: evo-robot
+  links: []
+- id: nano2024a
+  year: 2024
+  authors: Zhaoyang Jiang, Shaolong Shi, Yifan Chen, Zan Chen
+  title: "In Vivo Computational Strategy for Tumor Targeting in Noisy Scenarios"
+  venue: IEEE NANO 2024
+  venue_full: 24th IEEE International Conference on Nanotechnology
+  type: conference
+  rank: ""
+  direction: evo-robot
+  links: []
+- id: nano2024b
+  year: 2024
+  authors: Zan Chen, Zheng Gong, Shanchao Wen, Yue Sun, Shaolong Shi, Yifan Chen
+  title: "Nanoparticle Tomography for Vascular Aneurysm Detection"
+  venue: IEEE NANO 2024
+  venue_full: 24th IEEE International Conference on Nanotechnology
+  type: conference
+  rank: ""
+  direction: evo-robot
+  links: []
+- id: tec2023
+  year: 2023
+  authors: Shaolong Shi, Yifan Chen, Jurong Ding, Qiang Liu, Qingfu Zhang
+  title: "Dynamic In Vivo Computation for Learning-Based Nanobiosensing in Time-Varying Biological Landscapes"
+  venue: IEEE TEVC 2023
+  venue_full: IEEE Transactions on Evolutionary Computation
+  type: journal
+  rank: JCR Q1
+  direction: evo-robot
+  links: []
+- id: cec2023
+  year: 2023
+  authors: Shaolong Shi, Yifan Chen, Zhaoyang Jiang, Qiang Liu, Jurong Ding, Qingfu Zhang
+  title: "A Novel Computational Nanobiosensing Approach to Improve the Exploitation of In Vivo Computation"
+  venue: IEEE CEC 2023
+  venue_full: 2023 IEEE Congress on Evolutionary Computation
+  type: conference
+  rank: ""
+  direction: evo-robot
+  links: []
+- id: embc2023
+  year: 2023
+  authors: Shanchao Wen, Yue Sun, Yifan Chen, Shaolong Shi
+  title: "Particle Coupling Mechanism Inspired Adsorption Optimization in Autonomous In Vivo Computing"
+  venue: IEEE EMBC 2023
+  venue_full: 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society
+  type: conference
+  rank: ""
+  direction: evo-robot
+  links: []
+- id: tcyb2022a
+  year: 2022
+  authors: Shaolong Shi, Yifan Chen, Xin Yao
+  title: "NGA-Inspired Nanorobots-Assisted Detection of Multifocal Cancer"
+  venue: IEEE TCYB 2022
+  venue_full: IEEE Transactions on Cybernetics
+  type: journal
+  rank: JCR Q1
+  direction: evo-robot
+  links: []
+- id: tcyb2022b
+  year: 2022
+  authors: Shaolong Shi, Yifan Chen, Xin Yao
+  title: "In Vivo Computing Strategies for Tumor Sensitization and Targeting"
+  venue: IEEE TCYB 2022
+  venue_full: IEEE Transactions on Cybernetics
+  type: journal
+  rank: JCR Q1
+  direction: evo-robot
+  links: []
+- id: tcyb2022c
+  year: 2022
+  authors: Shaolong Shi, Neda Sharifi, Yifan Chen, Xin Yao
+  title: "Tension-Relaxation In Vivo Computing Principle for Tumor Sensitization and Targeting"
+  venue: IEEE TCYB 2022
+  venue_full: IEEE Transactions on Cybernetics
+  type: journal
+  rank: JCR Q1
+  direction: evo-robot
+  links: []
+- id: nano2022
+  year: 2022
+  authors: Shaolong Shi, Zhijing Wang, Yifan Chen, Qiang Liu, Qingfu Zhang
+  title: "A Full-Time-Utilization Optimization Approach for Computational Nanobiosensing"
+  venue: IEEE NANO 2022
+  venue_full: 22nd IEEE International Conference on Nanotechnology
+  type: conference
+  rank: ""
+  direction: evo-robot
+  links: []
+- id: cec2022
+  year: 2022
+  authors: Shaolong Shi, Yifan Chen, Qiang Liu, Jurong Ding, Qingfu Zhang
+  title: "Dynamic In Vivo Computation: Nanobiosensing from a Dynamic Optimization Perspective"
+  venue: IEEE CEC 2022
+  venue_full: 2022 IEEE Congress on Evolutionary Computation
+  type: conference
+  rank: ""
+  direction: evo-robot
+  links: []
+- id: swevo2021
+  year: 2021
+  authors: S. Shi, Y. Chen, X. Yao, Q. Liu
+  title: "Exponential Evolution Mechanism for In Vivo Computation"
+  venue: Swarm and Evolutionary Computation 2021
+  venue_full: Swarm and Evolutionary Computation
+  type: journal
+  rank: JCR Q1
+  direction: evo-robot
+  links: []
+- id: tnb2021
+  year: 2021
+  authors: S. Shi, Y. Yan, J. Xiong, U. K. Cheang, X. Yao, Y. Chen
+  title: "Nanorobots-Assisted Natural Computation for Multifocal Tumor Sensitization and Targeting"
+  venue: IEEE TNB 2021
+  venue_full: IEEE Transactions on NanoBioscience (cover, spotlight and hot paper)
+  type: journal
+  rank: ""
+  direction: evo-robot
+  links: []
+- id: tnb2019
+  year: 2019
+  authors: S. Shi, N. Sharifi, U. K. Cheang, Y. Chen
+  title: "Perspective: Computational Nanobiosensing"
+  venue: IEEE TNB 2019
+  venue_full: IEEE Transactions on NanoBioscience (invited perspective)
+  type: journal
+  rank: ""
+  direction: evo-robot
+  links: []
+- id: tnano2019
+  year: 2019
+  authors: S. Shi, J. Xiong, Y. Zhou, T. Jiang, G. Zhu, U. K. Cheang, X. Yao, Y. Chen
+  title: "Microrobots Based In Vivo Evolutionary Computation in Two-Dimensional Microchannel Network"
+  venue: IEEE TNANO 2019
+  venue_full: IEEE Transactions on Nanotechnology
+  type: journal
+  rank: ""
+  direction: evo-robot
+  links: []
+
+# ========== 具身感知与边缘智能（韩俏梅） ==========
+- id: tccn2026
+  year: 2026
+  authors: Q. Han, X. Wang, M. Liwang
+  title: "Spatiotemporal Feature Alignment and Weighted Fusion in Collaborative Perception Enabled by Network Synchronization and Age of Information"
+  venue: IEEE TCCN 2026
+  venue_full: IEEE Transactions on Cognitive Communications and Networking
+  type: journal
+  rank: JCR Q1
+  direction: edge-perception
+  links: []
+- id: tetci2025h
+  year: 2025
+  authors: Q. Han, X. Wang, W. Shen, Y. Shi
+  title: "AdaFML: Adaptive Federated Meta Learning with Multi-Objectives and Context-Awareness in Dynamic Heterogeneous Networks"
+  venue: IEEE TETCI 2025
+  venue_full: IEEE Transactions on Emerging Topics in Computational Intelligence
+  type: journal
+  rank: JCR Q2
+  direction: edge-perception
+  links: []
+- id: icc2025
+  year: 2025
+  authors: Q. Han, X. Wang, W. Shen
+  title: "Hypergraph-Aided Dynamic Model Splitting in 6G-Enabled Collaborative Edge Computing with Meta Reinforcement Learning"
+  venue: IEEE ICC 2025
+  venue_full: IEEE International Conference on Communications
+  type: conference
+  rank: CCF-C
+  direction: edge-perception
+  links: []
+- id: tmc2024
+  year: 2024
+  authors: Q. Han, X. Wang, W. Shen
+  title: "Communication-Dependent Computing Resource Management for Concurrent Task Orchestration in IoT Systems"
+  venue: IEEE TMC 2024
+  venue_full: IEEE Transactions on Mobile Computing
+  type: journal
+  rank: CCF-A
+  direction: edge-perception
+  links: []
+- id: infocom2024
+  year: 2024
+  authors: Q. Han, X. Wang, W. Shen
+  title: "Distributed Link Heterogeneity Exploitation for Attention-Weighted Robust Federated Learning in 6G Networks"
+  venue: IEEE INFOCOM 2024
+  venue_full: IEEE Conference on Computer Communications
+  type: conference
+  rank: CCF-A
+  direction: edge-perception
+  links: []
+- id: machines2022
+  year: 2022
+  authors: J. Gao, X. Zheng, F. Gao, X. Tong, Q. Han
+  title: "Heterogeneous Multitype Fleet Green Vehicle Path Planning of Automated Guided Vehicle with Time Windows in Flexible Manufacturing System"
+  venue: Machines 2022
+  venue_full: Machines
+  type: journal
+  rank: ""
+  direction: edge-perception
+  links: []
+- id: eng2021
+  year: 2021
+  authors: Y. Shi, Q. Han, W. Shen, X. Wang
+  title: "A Multi-Layer Collaboration Framework for Industrial Parks with 5G Vehicle-to-Everything Networks"
+  venue: Engineering 2021
+  venue_full: Engineering
+  type: journal
+  rank: JCR Q1
+  direction: edge-perception
+  links: []
+- id: mpe2020
+  year: 2020
+  authors: Z. Zhang, Q. Han, Y. Li, Y. Wang, Y. Shi
+  title: "An Evolutionary Multiagent Framework for Multiobjective Optimization"
+  venue: Mathematical Problems in Engineering 2020
+  venue_full: Mathematical Problems in Engineering
+  type: journal
+  rank: ""
+  direction: edge-perception
+  links: []
+- id: math2020
+  year: 2020
+  authors: Y. Shi, N. Lin, Q. Han, T. Zhang, W. Shen
+  title: "A Method for Transportation Planning and Profit Sharing in Collaborative Multi-Carrier Vehicle Routing"
+  venue: Mathematics 2020
+  venue_full: Mathematics
+  type: journal
+  rank: ""
+  direction: edge-perception
+  links: []
+- id: ietcim2019
+  year: 2019
+  authors: Y. Shi, Q. Han, W. Shen, H. Zhang
+  title: "Potential Applications of 5G Communication Technologies in Collaborative Intelligent Manufacturing"
+  venue: IET Collaborative Intelligent Manufacturing 2019
+  venue_full: IET Collaborative Intelligent Manufacturing
+  type: journal
+  rank: ""
+  direction: edge-perception
+  links: []
+
+# ========== 智能穿戴系统与数据隐私（王春棉） ==========
+- id: sp2026
+  year: 2026
+  authors: Chunmian Wang, Junzhou Luo, Zhen Ling, Yue Zhang, Shan Wang, Ming Yang, Guangchi Liu, Xinwen Fu
+  title: "Descriptors of Exposure: Undermining Tor Anonymity through Exploiting DESCRIPTOR FLOOD"
+  venue: IEEE S&P 2026
+  venue_full: 47th IEEE Symposium on Security and Privacy
+  type: conference
+  rank: CCF-A
+  direction: wearable
+  status: accepted
+  links: []
+- id: infocom2026
+  year: 2026
+  authors: Chunmian Wang, Xiaodan Gu, Ming Yang, Qi Chen, Zhou Xu
+  title: "Duplicate-Node Attack: Identifying Guards to Degrade and Triangulate Onion Services"
+  venue: IEEE INFOCOM 2026
+  venue_full: 45th IEEE International Conference on Computer Communications
+  type: conference
+  rank: CCF-A
+  direction: wearable
+  status: accepted
+  links: []
+- id: tnse2026
+  year: 2026
+  authors: Qi Chen, Ming Yang, Zhen Ling, Xiaodan Gu, Chunmian Wang, Yixuan Yao
+  title: "Hiding Communication beyond Anonymity: A Covert Information Transmission Framework over Anonymous Networks"
+  venue: IEEE TNSE 2026
+  venue_full: IEEE Transactions on Network Science and Engineering
+  type: journal
+  rank: JCR Q1
+  direction: wearable
+  status: accepted
+  links: []
+- id: www2025
+  year: 2025
+  authors: Yixuan Yao, Ming Yang, Zixia Liu, Kai Dong, Xiaodan Gu, Chunmian Wang
+  title: "Do Not Trust What They Tell: Exposing Malicious Accomplices in Tor via Anomalous Circuit Detection"
+  venue: WWW 2025
+  venue_full: 34th ACM Web Conference
+  type: conference
+  rank: CCF-A
+  direction: wearable
+  links: []
+- id: infocom2023
+  year: 2023
+  authors: Chunmian Wang, Junzhou Luo, Zhen Ling, Lan Luo, Xinwen Fu
+  title: "A Comprehensive and Long-Term Evaluation of Tor V3 Onion Services"
+  venue: IEEE INFOCOM 2023
+  venue_full: 42nd IEEE International Conference on Computer Communications
+  type: conference
+  rank: CCF-A
+  direction: wearable
+  links: []
+- id: infocom2022
+  year: 2022
+  authors: Chunmian Wang, Zhen Ling, Wenjia Wu, Qi Chen, Ming Yang, Xinwen Fu
+  title: "Large-Scale Evaluation of Malicious Tor Hidden Service Directory Discovery"
+  venue: IEEE INFOCOM 2022
+  venue_full: 41st IEEE International Conference on Computer Communications
+  type: conference
+  rank: CCF-A
+  direction: wearable
+  links: []

@@ -1,0 +1,55 @@
+# 三个研究方向，按首页显示顺序（与教师顺序一致：师、韩、王）。
+- id: evo-robot
+  title_zh: 智能机器人进化设计与应用
+  title_en: Evolutionary Design of Intelligent Robots
+  lead: shi
+  image: evo-robot.jpg
+  keywords_zh: [进化计算, 形态与控制协同设计, 医用纳米机器人, 体内计算, 群体协作]
+  keywords_en: [Evolutionary computation, Morphology-control co-design, Medical nanorobots, In vivo computation, Swarm collaboration]
+  summary_zh: >-
+    研究进化计算驱动的机器人形态与控制协同设计，构建面向肿瘤靶向与生物传感的医用纳米机器人群体；
+    在此基础上探索大模型引导的具身智能设计与决策。主持国家自然科学基金面上、青年等项目，
+    成果多发表于 IEEE 汇刊及国际会议。
+  summary_en: >-
+    We study evolutionary co-design of robot morphology and control, and build medical nanorobot swarms for
+    tumour targeting and biosensing; on that basis we explore LLM-guided design and decision making for embodied
+    intelligence. The line is supported by NSFC general and young-scientist projects, with results in IEEE
+    transactions and international conferences.
+  highlights: [tec2026, nano2026a, nsens2026a, tec2025, tetci2025]
+
+- id: edge-perception
+  title_zh: 具身感知与边缘智能
+  title_en: Embodied Perception and Edge Intelligence
+  lead: han
+  image: edge-perception.jpg
+  keywords_zh: [多模态感知, 边缘智能, 分布式机器学习, 多智能体协作, 通信感知计算一体化]
+  keywords_en: [Multimodal perception, Edge intelligence, Distributed machine learning, Multi-agent collaboration, Integrated sensing-communication-computing]
+  summary_zh: >-
+    研究智能体在真实物理环境中的多模态感知、通信与边缘智能，以及智能体之间及其与边缘设备之间的信息交互和计算协作，
+    使其能够在动态环境和有限资源条件下实时理解环境并可靠完成任务，
+    推动相关方法在具身智能、多智能体协作和世界模型等前沿领域中的应用。
+  summary_en: >-
+    We study multimodal perception, communication and edge intelligence for agents in real physical environments,
+    together with the information exchange and computational collaboration among agents and edge devices, so that
+    they can understand their surroundings in real time and complete tasks reliably under dynamic conditions and
+    limited resources, with applications in embodied intelligence, multi-agent collaboration and world models.
+  highlights: [tccn2026, tmc2024, infocom2024, tetci2025h, icc2025]
+
+- id: wearable
+  title_zh: 智能穿戴系统与数据隐私
+  title_en: Wearable Systems and Data Privacy
+  lead: wang
+  image: wearable.jpg
+  keywords_zh: [可穿戴感知, 端上计算, 设备与云端协同, 数据隐私, 协议与流量分析]
+  keywords_en: [Wearable sensing, On-device computing, Device-cloud coordination, Data privacy, Protocol and traffic analysis]
+  summary_zh: >-
+    研究面向人体的可穿戴感知系统：低功耗传感与端上计算、设备与手机及云端之间的通信与数据同步，
+    以及穿戴数据在采集、传输与共享全过程中的隐私保护与可信保障。
+    目标是做出能长期佩戴、数据可用且可被信任的系统，为健康监测、人机交互与具身智能提供人体侧的感知入口。
+  summary_en: >-
+    We study wearable sensing systems for the human body: low-power sensing and on-device computing,
+    communication and data synchronisation between devices, phones and the cloud, and privacy protection and
+    trustworthiness across the collection, transmission and sharing of wearable data. The goal is systems that
+    can be worn over long periods and whose data is both usable and trustworthy, providing the human-side sensing
+    entry point for health monitoring, human-computer interaction and embodied intelligence.
+  highlights: [sp2026, infocom2026, www2025, infocom2023, infocom2022]

@@ -1,0 +1,31 @@
+# 新闻动态。date 写 YYYY-MM 或 YYYY-MM-DD；只知道年份时写 "YYYY"。按 date 倒序显示。
+- date: 2026-09
+  zh: >-
+    中心主页上线。
+  en: >-
+    Centre website launched.
+- date: "2026"
+  zh: >-
+    论文 “Fitness-Dependent Hierarchical Mutation for Nanorobot Morphology–Control Co-Evolution in Biological Gradient Field” 发表于 IEEE Transactions on Evolutionary Computation。
+  en: >-
+    “Fitness-Dependent Hierarchical Mutation for Nanorobot Morphology–Control Co-Evolution in Biological Gradient Field” published in IEEE Transactions on Evolutionary Computation.
+- date: "2026"
+  zh: >-
+    论文 “Spatiotemporal Feature Alignment and Weighted Fusion in Collaborative Perception” 发表于 IEEE Transactions on Cognitive Communications and Networking。
+  en: >-
+    “Spatiotemporal Feature Alignment and Weighted Fusion in Collaborative Perception” published in IEEE Transactions on Cognitive Communications and Networking.
+- date: "2026"
+  zh: >-
+    论文 “Descriptors of Exposure” 被 IEEE Symposium on Security and Privacy 录用。
+  en: >-
+    “Descriptors of Exposure” accepted at the IEEE Symposium on Security and Privacy.
+- date: "2026"
+  zh: >-
+    三篇论文被 IEEE NANO 与 NSENS 录用，方向涵盖纳米机器人形态与控制协同进化、群体协作运输。
+  en: >-
+    Three papers accepted at IEEE NANO and NSENS on nanorobot morphology-control co-evolution and swarm transport.
+- date: "2025"
+  zh: >-
+    国家自然科学基金面上项目“基于进化纳米机器人的多智能体纳米生物传感技术研究及其应用”获批立项。
+  en: >-
+    NSFC general project on multi-agent nanobiosensing with evolutionary nanorobots started.

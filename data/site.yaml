@@ -1,0 +1,119 @@
+# 站点基本信息。zh = 中文，en = 英文。改完运行 python3 build.py 重新生成 dist/。
+name_zh: 物理智能与认知计算研究中心
+name_en: Research Center for Physical Intelligence and Cognitive Computing
+short: PICC
+affiliation_zh: 福耀科技大学 计算与人工智能学院
+affiliation_en: School of Computing and Artificial Intelligence, Fuyao University of Science and Technology
+affiliation_url: https://cs.fyust.edu.cn/
+school_url: https://www.fyust.edu.cn/
+school_logo: assets/img/fyust-logo.png
+
+# 首屏一句话：三个分句分别对应三个研究方向
+tagline_zh: 让机器人的形态可进化、边缘的感知可协同、穿戴的数据可信任
+tagline_en: Evolvable robot morphology, collaborative perception at the edge, trustworthy wearable data
+
+address_zh: 福建省福州高新技术产业开发区智慧大道 104 号，福耀科技大学计算与人工智能学院，邮编 350109
+address_en: School of Computing and AI, Fuyao University of Science and Technology, 104 Zhihui Avenue, Fuzhou High-tech Zone, Fuzhou, Fujian 350109, China
+contact_email: shishaolong@fyust.edu.cn
+github: https://github.com/picc-fyust
+
+# 页脚"快捷访问"里的外部链接
+footer_links:
+  - url: https://www.fyust.edu.cn/
+    zh: 福耀科技大学
+    en: Fuyao University of Science and Technology
+  - url: https://cs.fyust.edu.cn/
+    zh: 计算与人工智能学院
+    en: School of Computing and AI
+
+# 成员层级，按页面显示顺序。学生不分导师，统一放在"学生"里。
+tiers:
+  - id: faculty
+    zh: 教师
+    en: Faculty
+  - id: student
+    zh: 学生
+    en: Students
+  - id: alumni
+    zh: 校友
+    en: Alumni
+
+nav:
+  - id: research
+    file: research.html
+    zh: 研究方向
+    en: Research
+  - id: people
+    file: people.html
+    zh: 团队成员
+    en: People
+  - id: publications
+    file: publications.html
+    zh: 论文成果
+    en: Publications
+  - id: news
+    file: news.html
+    zh: 新闻动态
+    en: null
+  - id: join
+    file: join.html
+    zh: 加入我们
+    en: Join Us
+
+ui:
+  zh:
+    home: 首页
+    colon: "："
+    recent_news: 最新动态
+    all_news: 全部动态
+    selected_pubs: 代表论文
+    all_pubs: 全部论文
+    research_areas: 研究方向
+    more: 了解更多
+    join_cta: 加入我们
+    join_lead: 中心长期招收博士生、硕士生、科研实习生与访问学生
+    lead_by: 负责教师
+    keywords: 关键词
+    highlights: 代表成果
+    recruiting: 招收中
+    recruiting_note: 该层级虚位以待，欢迎申请。
+    email: 邮箱
+    homepage: 主页
+    scholar: Scholar
+    faculty_page: 学院主页
+    address: 地址
+    contact: 联系我们
+    quick_links: 快捷访问
+    lang_switch: English
+    lang_switch_file: en/index.html
+    copyright: 物理智能与认知计算研究中心
+    accepted: 已录用
+    school_logo_alt: 福耀科技大学
+  en:
+    home: Home
+    colon: ": "
+    recent_news: News
+    all_news: All news
+    selected_pubs: Selected Publications
+    all_pubs: All publications
+    research_areas: Research
+    more: Learn more
+    join_cta: Join us
+    join_lead: We are always looking for PhD students, master's students, research interns and visiting students
+    lead_by: Lead
+    keywords: Keywords
+    highlights: Selected work
+    recruiting: Recruiting
+    recruiting_note: Positions open at this level. Applications welcome.
+    email: Email
+    homepage: Homepage
+    scholar: Scholar
+    faculty_page: Faculty page
+    address: Address
+    contact: Contact
+    quick_links: Quick Links
+    lang_switch: 中文
+    lang_switch_file: ../index.html
+    copyright: Research Center for Physical Intelligence and Cognitive Computing
+    accepted: accepted
+    school_logo_alt: Fuyao University of Science and Technology
