@@ -4,7 +4,7 @@
 # ========== 智能机器人进化设计与应用（师少龙） ==========
 - id: tec2026
   year: 2026
-  authors: Weiqi Liu, Shaolong Shi*, Jiawei Zou, Qiujun Huang, Jinting Wang*
+  authors: Weiqi Liu（学生一作）, Shaolong Shi*, Jiawei Zou, Qiujun Huang, Jinting Wang*
   title: "Fitness-Dependent Hierarchical Mutation for Nanorobot Morphology-Control Co-Evolution in Biological Gradient Field"
   venue: IEEE TEVC 2026
   venue_full: IEEE Transactions on Evolutionary Computation
@@ -14,7 +14,7 @@
   links: []
 - id: nano2026a
   year: 2026
-  authors: Weiqi Liu, Shaolong Shi*
+  authors: Weiqi Liu（学生一作）, Shaolong Shi*
   title: "LLM-Guided Co-Evolution of Nanorobot Morphology and Control for Tumor Targeting"
   venue: IEEE NANO 2026
   venue_full: 26th IEEE International Conference on Nanotechnology
@@ -24,7 +24,7 @@
   links: []
 - id: nano2026b
   year: 2026
-  authors: Jiawei Zou, Shaolong Shi*
+  authors: Jiawei Zou（学生一作）, Shaolong Shi*
   title: "Phase-Regulated Swarm Control for Nanorobot Collective Transport in Tumor Microenvironments"
   venue: IEEE NANO 2026
   venue_full: 26th IEEE International Conference on Nanotechnology
@@ -34,7 +34,7 @@
   links: []
 - id: nsens2026a
   year: 2026
-  authors: Jiawei Zou, Shaolong Shi*
+  authors: Jiawei Zou（学生一作）, Shaolong Shi*
   title: "Rule-Driven Self-Organized Swarm Delivery to Evolutionary Nanorobots"
   venue: IEEE NSENS 2026
   venue_full: 5th IEEE International Conference on Micro/Nano Sensors for AI, Healthcare, and Robotics
@@ -44,7 +44,7 @@
   links: []
 - id: nsens2026b
   year: 2026
-  authors: Weiqi Liu, Shaolong Shi*
+  authors: Weiqi Liu（学生一作）, Shaolong Shi*
   title: "Evolving Nanorobots in Nonstationary Biological Landscapes"
   venue: IEEE NSENS 2026
   venue_full: 5th IEEE International Conference on Micro/Nano Sensors for AI, Healthcare, and Robotics
@@ -74,7 +74,7 @@
   links: []
 - id: mind2025a
   year: 2025
-  authors: Weiqi Liu, Jiawei Zou, Shaolong Shi*
+  authors: Weiqi Liu（学生一作）, Jiawei Zou, Shaolong Shi*
   title: "Evolutionary Nanorobotic Design Based on Bioinformation Feedback"
   venue: MIND 2025
   venue_full: 2025 International Conference on Machine Intelligence and Nature-Inspired Computing
@@ -84,7 +84,7 @@
   links: []
 - id: mind2025b
   year: 2025
-  authors: Jiawei Zou, Weiqi Liu, Shaolong Shi*
+  authors: Jiawei Zou（学生一作）, Weiqi Liu, Shaolong Shi*
   title: "An Evolutionary Nanorobotic Cooperative Grasping and Transport Method Based on Information-Sharing Structures"
   venue: MIND 2025
   venue_full: 2025 International Conference on Machine Intelligence and Nature-Inspired Computing
