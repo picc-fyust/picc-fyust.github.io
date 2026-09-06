@@ -66,5 +66,5 @@ python3 -m http.server -d dist 8000  # 浏览器打开 http://localhost:8000
 
 ### 自定义域名
 
-有域名后，在 GitHub Pages 或 EdgeOne 的设置里绑定即可；学校子域名（如 `trustai.fyust.edu.cn`）需请学校网络中心
+有域名后，在 GitHub Pages 或 EdgeOne 的设置里绑定即可；学校子域名（如 `picc.fyust.edu.cn`）需请学校网络中心
 把 CNAME 指到对应平台给出的地址。
