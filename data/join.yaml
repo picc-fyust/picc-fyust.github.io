@@ -8,14 +8,16 @@ lead_en: >-
 compute_title_zh: 算力与硬件支撑
 compute_title_en: Compute and Hardware Support
 compute_zh: >-
-  中心为科研与项目提供充裕的算力支撑，并为机器人、边缘设备与可穿戴系统等方向配备相应的实验硬件。
+  中心能为科研与项目提供充裕的算力支撑，包含百卡 GPU 集群（单卡显存 ≥ 80G、单机显存和内存高达近 1.5T）等，
+  并为机器人、边缘设备与可穿戴系统等方向配备相应的实验硬件。
   我们鼓励学生在三个方向之外拓展新的研究方向：只要方向站得住，所需的算力与硬件设备由中心解决，
   不让设备条件成为选题的限制。
 compute_en: >-
-  The centre provides ample compute for research and projects, together with the experimental hardware needed
-  for robotics, edge devices and wearable systems. We encourage students to open new research directions beyond
-  the three lines: if the direction holds up, the centre supplies the compute and hardware it needs, so that
-  equipment is never the constraint on what you can work on.
+  The centre provides ample compute for research and projects, including a GPU cluster of over one hundred cards
+  (at least 80 GB of memory per card, and up to nearly 1.5 TB of GPU memory plus RAM per node), together with the
+  experimental hardware needed for robotics, edge devices and wearable systems. We encourage students to open new
+  research directions beyond the three lines: if the direction holds up, the centre supplies the compute and
+  hardware it needs, so that equipment is never the constraint on what you can work on.
 
 # 色块下面的四张卡片
 offers:
