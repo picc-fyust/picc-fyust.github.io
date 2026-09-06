@@ -4,8 +4,8 @@
   title_en: Evolutionary Design of Intelligent Robots
   lead: shi
   image: evo-robot.jpg
-  keywords_zh: [进化计算, 形态与控制协同设计, 医用纳米机器人, 体内计算, 群体协作]
-  keywords_en: [Evolutionary computation, Morphology-control co-design, Medical nanorobots, In vivo computation, Swarm collaboration]
+  keywords_zh: [具身智能, 进化计算, 协同设计, 纳米机器人, 群体智能]
+  keywords_en: [Embodied AI, Evolutionary computation, Collaborative design, Nanorobots, Swarm intelligence]
   summary_zh: >-
     研究具身多模态感知与操作、大模型驱动的具身智能设计与决策，构建“感知-决策-执行”闭环的具身大模型、智能进化的医用纳米机器人等。主持国家自然科学基金面上、青年等项目，
     成果多发表于 IEEE 相关领域汇刊及国际会议。
