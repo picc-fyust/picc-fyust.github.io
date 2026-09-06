@@ -7,13 +7,10 @@
   keywords_zh: [进化计算, 形态与控制协同设计, 医用纳米机器人, 体内计算, 群体协作]
   keywords_en: [Evolutionary computation, Morphology-control co-design, Medical nanorobots, In vivo computation, Swarm collaboration]
   summary_zh: >-
-    研究进化计算驱动的机器人形态与控制协同设计，构建面向肿瘤靶向与生物传感的医用纳米机器人群体；
-    在此基础上探索大模型引导的具身智能设计与决策。主持国家自然科学基金面上、青年等项目，
-    成果多发表于 IEEE 汇刊及国际会议。
+    研究具身多模态感知与操作、大模型驱动的具身智能设计与决策，构建“感知-决策-执行”闭环的具身大模型、智能进化的医用纳米机器人等。主持国家自然科学基金面上、青年等项目，
+    成果多发表于 IEEE 相关领域汇刊及国际会议。
   summary_en: >-
-    We study evolutionary co-design of robot morphology and control, and build medical nanorobot swarms for
-    tumour targeting and biosensing; on that basis we explore LLM-guided design and decision making for embodied
-    intelligence. The line is supported by NSFC general and young-scientist projects, with results in IEEE
+    We study embodied multimodal perception and manipulation, as well as large-model-driven design and decision-making for embodied intelligence, aiming to build embodied large models with a "perception-decision-execution" closed loop and intelligent, self-evolving medical nanorobots. The line is supported by NSFC general and young-scientist projects, with results in IEEE
     transactions and international conferences.
   highlights: [tec2026, nano2026a, nsens2026a, tec2025, tetci2025]
 
