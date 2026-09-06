@@ -5,24 +5,24 @@ lead_en: >-
   research interns and visiting students, across all three research directions.
 
 # 突出的色块，单独一块放在最上面
-compute_title_zh: 三条线交叉的选题空间
-compute_title_en: Where the three lines meet
+compute_title_zh: 算力与硬件支撑
+compute_title_en: Compute and Hardware Support
 compute_zh: >-
-  机器人进化设计、边缘感知与协作、穿戴系统与数据隐私三条线彼此相邻：
-  进化出来的机器人需要在边缘实时感知，边缘上的感知要落到可长期佩戴的设备，而设备采集的数据必须可信。
-  学生可以在任意一条线上深入，也可以在两条线的交界处选题，由两位老师联合指导。
+  中心为科研与项目提供充裕的算力支撑，并为机器人、边缘设备与可穿戴系统等方向配备相应的实验硬件。
+  我们鼓励学生在三个方向之外拓展新的研究方向：只要方向站得住，所需的算力与硬件设备由中心解决，
+  不让设备条件成为选题的限制。
 compute_en: >-
-  The three lines sit next to one another: robots that evolve need to perceive in real time at the edge,
-  edge perception has to run on devices people can wear for long periods, and the data those devices collect
-  has to be trustworthy. Students can go deep on one line or pick a topic where two lines meet, co-supervised
-  by two faculty members.
+  The centre provides ample compute for research and projects, together with the experimental hardware needed
+  for robotics, edge devices and wearable systems. We encourage students to open new research directions beyond
+  the three lines: if the direction holds up, the centre supplies the compute and hardware it needs, so that
+  equipment is never the constraint on what you can work on.
 
 # 色块下面的四张卡片
 offers:
   - title_zh: 三位导师方向互补
     title_en: Complementary supervision
-    text_zh: 机器人进化、边缘智能、穿戴系统三条线可以交叉选题。
-    text_en: Topics can span evolutionary robotics, edge intelligence and wearable systems.
+    text_zh: 机器人进化、边缘智能、穿戴系统三条线彼此相邻，可以在交界处选题，由两位老师联合指导。
+    text_en: The three lines sit next to one another; topics at their boundaries are co-supervised by two faculty members.
   - title_zh: 国家级项目在研
     title_en: Funded projects
     text_zh: 国家自然科学基金面上、青年等项目在研，课题来自真实需求。
