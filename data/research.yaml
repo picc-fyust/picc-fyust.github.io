@@ -19,17 +19,18 @@
   title_en: Embodied Perception and Edge Intelligence
   lead: han
   image: edge-perception.jpg
-  keywords_zh: [多模态感知, 边缘智能, 分布式机器学习, 多智能体协作, 通信感知计算一体化]
-  keywords_en: [Multimodal perception, Edge intelligence, Distributed machine learning, Multi-agent collaboration, Integrated sensing-communication-computing]
+  keywords_zh: [多模态感知, 视觉语言导航, 边缘智能, 多智能体协作, 感知通信计算一体化]
+  keywords_en: [Multimodal perception, Vision-language navigation, Edge intelligence, Multi-agent collaboration, Integrated sensing-communication-computing]
   summary_zh: >-
-    研究智能体在真实物理环境中的多模态感知、通信与边缘智能，以及智能体之间及其与边缘设备之间的信息交互和计算协作，
-    使其能够在动态环境和有限资源条件下实时理解环境并可靠完成任务，
-    推动相关方法在具身智能、多智能体协作和世界模型等前沿领域中的应用。
+    无人机、无人车等智能体在动态环境和有限算力、带宽下协同工作，需要进行感知、通信与计算一体化设计。
+    本方向研究融合图像、激光雷达等信息的多模态感知、视觉语言导航，以及智能体与边缘设备之间的协同，
+    使多个智能体能够自主、可靠地完成任务。
   summary_en: >-
-    We study multimodal perception, communication and edge intelligence for agents in real physical environments,
-    together with the information exchange and computational collaboration among agents and edge devices, so that
-    they can understand their surroundings in real time and complete tasks reliably under dynamic conditions and
-    limited resources, with applications in embodied intelligence, multi-agent collaboration and world models.
+    Embodied agents, including UAVs and UGVs, operate collaboratively in dynamic environments with limited
+    computing resources and bandwidth, requiring the integrated design of sensing, communication and computing.
+    This direction studies multimodal perception using images, LiDAR and other sensory information,
+    vision-language navigation, and collaboration between agents and edge devices, enabling multiple agents
+    to complete tasks autonomously and reliably.
   highlights: [tccn2026, tmc2024, infocom2024, tetci2025h, icc2025]
 
 - id: wearable
