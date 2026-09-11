@@ -22,12 +22,12 @@
   keywords_zh: [多模态感知, 视觉语言导航, 边缘智能, 多智能体协作, 感知通信计算一体化]
   keywords_en: [Multimodal perception, Vision-language navigation, Edge intelligence, Multi-agent collaboration, Integrated sensing-communication-computing]
   summary_zh: >-
-    无人机、无人车等智能体在动态环境和有限算力、带宽下协同工作，需要进行感知、通信与计算一体化设计。
+    无人机、无人车等智能体在动态环境和有限算力、通信带宽下协同工作，需要进行感知、通信与计算一体化设计。
     本方向研究融合图像、激光雷达等信息的多模态感知、以及智能体与边缘设备之间的自主协同，
     可靠地完成视觉语言导航、协同目标识别与追踪等任务。
   summary_en: >-
     Embodied agents, including UAVs and UGVs, operate collaboratively in dynamic environments with limited
-    computing resources and bandwidth, requiring the integrated design of sensing, communication and computing.
+    computing resources and communication bandwidth, requiring the integrated design of sensing, communication and computing.
     This direction studies multimodal perception using images, LiDAR and other sensory information,
     and autonomous collaboration between agents and edge devices, enabling multiple agents
     to complete tasks reliably, such as vision-language navigation.
