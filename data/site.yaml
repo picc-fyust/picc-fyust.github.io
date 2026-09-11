@@ -9,8 +9,8 @@ school_url: https://www.fyust.edu.cn/
 school_logo: assets/img/fyust-logo.png
 
 # 首屏一句话：三个分句分别对应三个研究方向
-tagline_zh: 让机器人的体脑可进化、边缘的感知可协同、穿戴的数据可信任
-tagline_en: Evolvable robot body and brain, collaborative perception at the edge, trustworthy wearable data
+tagline_zh: 让机器人的体脑可进化、群体的决策可协同、穿戴的数据可信任
+tagline_en: Evolvable robot body and brain, coordinated swarm intelligence, trustworthy wearable data
 
 address_zh: 福建省福州高新技术产业开发区智慧大道 104 号，福耀科技大学计算与人工智能学院，邮编 350109
 address_en: School of Computing and AI, Fuyao University of Science and Technology, 104 Zhihui Avenue, Fuzhou High-tech Zone, Fuzhou, Fujian 350109, China
