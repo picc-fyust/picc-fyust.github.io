@@ -29,8 +29,8 @@
     Embodied agents, including UAVs and UGVs, operate collaboratively in dynamic environments with limited
     computing resources and bandwidth, requiring the integrated design of sensing, communication and computing.
     This direction studies multimodal perception using images, LiDAR and other sensory information,
-    vision-language navigation, and autonomous collaboration between agents and edge devices, enabling multiple agents
-    to complete tasks reliably.
+    and autonomous collaboration between agents and edge devices, enabling multiple agents
+    to complete tasks reliably, such as vision-language navigation.
   highlights: [tccn2026, tmc2024, infocom2024, tetci2025h, icc2025]
 
 - id: wearable
