@@ -37,17 +37,17 @@
   links: []
   photo: han.jpg
   bio_zh: >-
-    福耀科技大学计算与人工智能学院助理教授，2025 年获加拿大西安大略大学电气与计算机工程专业博士学位，
-    此前于大连理工大学获学士与硕士学位，2025 至 2026 年在西安大略大学从事博士后研究。
-    研究方向包括边缘智能与分布式机器学习、AI 原生无线网络、多模态智能计算、通信感知与计算一体化，
-    以及在智慧出行、智能交通和工业自动化中的应用，成果发表于 IEEE TMC、INFOCOM、ICC 等期刊和会议。
+    福耀科技大学计算与人工智能学院助理教授，博士毕业于加拿大西安大略大学，此前于大连理工大学获得学士和硕士学位，并曾在西安大略大学从事博士后研究。
+    主要研究方向包括边缘智能与分布式机器学习、AI原生无线网络、多模态智能计算以及通信感知计算一体化，以及在智慧出行、智能交通和工业自动化等场景中的应用。
+    研究成果发表于 IEEE TMC、IEEE TCCN、INFOCOM、ICC 等国际期刊和会议。
+
   bio_en: >-
-    Assistant Professor at the School of Computing and AI, FYUST. She received her PhD in Electrical and Computer
-    Engineering from Western University, Canada in 2025, after a bachelor's and master's degree from Dalian
-    University of Technology, and held a postdoctoral position at Western University in 2025-2026. Her work covers
-    edge intelligence and distributed machine learning, AI-native wireless networks, multimodal intelligent
-    computing and integrated sensing-communication-computing, with applications in smart mobility, intelligent
-    transportation and industrial automation; results appear in IEEE TMC, INFOCOM and ICC.
+    Assistant Professor at the School of Computing and AI, FYUST. She received her PhD in Electrical and Computer Engineering 
+    from Western University, Canada, after earning her bachelor's and master's degrees from Dalian University of Technology, 
+    and subsequently conducted postdoctoral research at Western University. Her research interests include edge intelligence and 
+    distributed machine learning, AI-native wireless networks, multimodal intelligent computing, and integrated sensing, communication, 
+    and computing, with applications to smart mobility, intelligent transportation, and industrial automation. Her work has been published 
+    in IEEE TMC, IEEE TCCN, INFOCOM, ICC, and other international journals and conferences.
 
 - id: wang
   tier: faculty
